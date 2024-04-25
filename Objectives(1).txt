@@ -1,0 +1,12 @@
+#List popular languages for Data Science :
+1- R
+2- SQL
+3- Python
+# List popular liprares  for Data Science : 
+1- pandas
+2- seaborn
+3- matplotlip
+# List popular open source  for Data Science :
+1- maltego 
+2- spiderfoot HX
+3- SEON
